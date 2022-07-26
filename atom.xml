@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Misaka的小站------一个搞技术的少女的小博客</title>
+  <icon>https://www.mis1042.com/icon.png</icon>
+  <subtitle>一个搞技术的少女的小博客</subtitle>
+  <link href="https://www.mis1042.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.mis1042.com/"/>
+  <updated>2022-07-24T12:25:31.000Z</updated>
+  <id>https://www.mis1042.com/</id>
+  
+  <author>
+    <name>Misaka10042</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【全网首发中文教程】如何签名OpenCore来使用SecureBoot(安全启动)功能</title>
+    <link href="https://www.mis1042.com/post/secureboot/"/>
+    <id>https://www.mis1042.com/post/secureboot/</id>
+    <published>2022-07-08T18:54:48.000Z</published>
+    <updated>2022-07-24T12:25:31.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Hackintosh" scheme="https://www.mis1042.com/categories/Hackintosh/"/>
+    
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+    <category term="技术" scheme="https://www.mis1042.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Hackintosh" scheme="https://www.mis1042.com/tags/Hackintosh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>致MU5735</title>
+    <link href="https://www.mis1042.com/post/MU5735/"/>
+    <id>https://www.mis1042.com/post/MU5735/</id>
+    <published>2022-03-22T11:11:02.000Z</published>
+    <updated>2022-07-26T15:27:53.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;font size=5&gt;致MU5735&lt;/font&gt;&lt;/center&gt;
+
+&lt;p align=&quot;right&quot;&gt;
+&lt;font</summary>
+        
+      
+    
+    
+    
+    <category term="诗词" scheme="https://www.mis1042.com/categories/%E8%AF%97%E8%AF%8D/"/>
+    
+    
+    <category term="日常" scheme="https://www.mis1042.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>御坂网络NAS封禁列表</title>
+    <link href="https://www.mis1042.com/post/banned/"/>
+    <id>https://www.mis1042.com/post/banned/</id>
+    <published>2022-01-15T17:51:10.000Z</published>
+    <updated>2022-07-26T15:27:53.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近很多人来扫描御坂网络NAS服务器，也有尝试爆破ssh的，现在把IP挂出来&lt;/p&gt;
+&lt;p&gt;47.112.104.79：2022-03-01 11:33:18&lt;br&gt;206.189.140.45：2022-03-04</summary>
+        
+      
+    
+    
+    
+    <category term="日常" scheme="https://www.mis1042.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="日常" scheme="https://www.mis1042.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用fsd搭建属于自己的模拟飞行服务器</title>
+    <link href="https://www.mis1042.com/post/fsd/"/>
+    <id>https://www.mis1042.com/post/fsd/</id>
+    <published>2022-01-09T11:57:40.000Z</published>
+    <updated>2022-07-09T17:40:38.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="模拟飞行" scheme="https://www.mis1042.com/categories/%E6%A8%A1%E6%8B%9F%E9%A3%9E%E8%A1%8C/"/>
+    
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+    <category term="技术" scheme="https://www.mis1042.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="模拟飞行" scheme="https://www.mis1042.com/tags/%E6%A8%A1%E6%8B%9F%E9%A3%9E%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>黑苹果电池新纪元！告别烦人的DSDT拆分，一键驱动！</title>
+    <link href="https://www.mis1042.com/post/hackintosh-bat/"/>
+    <id>https://www.mis1042.com/post/hackintosh-bat/</id>
+    <published>2021-08-11T20:51:58.000Z</published>
+    <updated>2022-07-09T17:36:01.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Hackintosh" scheme="https://www.mis1042.com/categories/Hackintosh/"/>
+    
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+    <category term="Hackintosh" scheme="https://www.mis1042.com/tags/Hackintosh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭载 M1 的 iPad Pro 他来了！Apple Event April 20简评（未写完,停更）</title>
+    <link href="https://www.mis1042.com/post/appleevent20/"/>
+    <id>https://www.mis1042.com/post/appleevent20/</id>
+    <published>2021-04-21T21:32:26.000Z</published>
+    <updated>2022-07-09T17:34:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;总叙述&quot;&gt;&lt;a href=&quot;#总叙述&quot; class=&quot;headerlink&quot; title=&quot;总叙述&quot;&gt;&lt;/a&gt;总叙述&lt;/h1&gt;&lt;p&gt;昨天（2021.4.20）Apple Event April 20 正式开幕，在本次 Event 中 Apple</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://www.mis1042.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="日常" scheme="https://www.mis1042.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+    <category term="技术" scheme="https://www.mis1042.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="苹果" scheme="https://www.mis1042.com/tags/%E8%8B%B9%E6%9E%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从0开始的黑苹果之路：二 ——开始准备你的黑苹果引导盘</title>
+    <link href="https://www.mis1042.com/post/hackintosh2/"/>
+    <id>https://www.mis1042.com/post/hackintosh2/</id>
+    <published>2021-04-17T21:42:43.000Z</published>
+    <updated>2022-07-18T22:51:09.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;总序&quot;&gt;&lt;a href=&quot;#总序&quot; class=&quot;headerlink&quot; title=&quot;总序&quot;&gt;&lt;/a&gt;总序&lt;/h1&gt;&lt;p&gt;欢迎你继续关注我的黑苹果文章，上一篇文章已经介绍了黑苹果有什么用和硬件要求，今天，我们来看如何制作启动盘&lt;/p&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="Hackintosh" scheme="https://www.mis1042.com/categories/Hackintosh/"/>
+    
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+    <category term="技术" scheme="https://www.mis1042.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Hackintosh" scheme="https://www.mis1042.com/tags/Hackintosh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从0开始的黑苹果之路：一 黑苹果有什么用&amp;硬件配置要求</title>
+    <link href="https://www.mis1042.com/post/hackintosh1/"/>
+    <id>https://www.mis1042.com/post/hackintosh1/</id>
+    <published>2021-03-22T21:52:41.000Z</published>
+    <updated>2022-07-26T15:27:53.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;黑苹果，作为一个从macOS Lion就开始存在的事物，从2011年7月21日macOS Lion发布到2020年发布了macOS</summary>
+        
+      
+    
+    
+    
+    <category term="Hackintosh" scheme="https://www.mis1042.com/categories/Hackintosh/"/>
+    
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+    <category term="技术" scheme="https://www.mis1042.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Hackintosh" scheme="https://www.mis1042.com/tags/Hackintosh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>还在用Cloudflare的朋友们注意了！CF目前开始清理自选节点了</title>
+    <link href="https://www.mis1042.com/post/cloudflare/"/>
+    <id>https://www.mis1042.com/post/cloudflare/</id>
+    <published>2021-03-22T21:51:16.000Z</published>
+    <updated>2022-07-09T17:29:32.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;众所周知，CloudFlare是全球最大CDN，除了在中国速度不咋地，但是以往可以用自选节点IP来解决&lt;br&gt;（所谓自选即为手动把域名解析到cf速度快到节点）&lt;br&gt;此行为已经严重触犯cf到权益，目前据消息称，cf已经开始杜绝此现象&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://www.mis1042.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="日常" scheme="https://www.mis1042.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+    <category term="技术" scheme="https://www.mis1042.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于本站</title>
+    <link href="https://www.mis1042.com/post/about/"/>
+    <id>https://www.mis1042.com/post/about/</id>
+    <published>2021-01-01T21:30:20.000Z</published>
+    <updated>2022-07-19T10:46:45.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;🏠-关于本站&quot;&gt;&lt;a href=&quot;#🏠-关于本站&quot; class=&quot;headerlink&quot; title=&quot;🏠 关于本站&quot;&gt;&lt;/a&gt;🏠 关于本站&lt;/h1&gt;&lt;p&gt;这里是由Misaka10042的个人站&lt;/p&gt;
+&lt;h1 id=&quot;👨‍💻-博主是谁&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="日常" scheme="https://www.mis1042.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="日常" scheme="https://www.mis1042.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎来的Misaka10042的小站</title>
+    <link href="https://www.mis1042.com/post/readmefirst/"/>
+    <id>https://www.mis1042.com/post/readmefirst/</id>
+    <published>2021-01-01T21:09:41.000Z</published>
+    <updated>2022-07-26T15:27:53.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;欢迎&quot;&gt;&lt;a href=&quot;#欢迎&quot; class=&quot;headerlink&quot; title=&quot;欢迎&quot;&gt;&lt;/a&gt;欢迎&lt;/h1&gt;&lt;p&gt;欢迎来到这里！你能喜欢我的文章我很开心  &lt;/p&gt;
+&lt;h1 id=&quot;本站内容&quot;&gt;&lt;a href=&quot;#本站内容&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="日常" scheme="https://www.mis1042.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="日常" scheme="https://www.mis1042.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="原创" scheme="https://www.mis1042.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
+  
+</feed>
